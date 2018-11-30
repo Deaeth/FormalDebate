@@ -1,4 +1,4 @@
-# Formal Debate Bot by DEATH
+# Formal Debate Bot
 Hey guys! Hope you enjoy my bot!!
 
 Step 1)
