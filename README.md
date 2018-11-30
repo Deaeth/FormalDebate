@@ -1,4 +1,4 @@
-# DiscordJS_Template
+# Formal Debate Bot by DEATH
 Hey guys! Hope you enjoy my bot!!
 
 Step 1)
